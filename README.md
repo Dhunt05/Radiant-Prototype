@@ -19,4 +19,4 @@ Both Black Colored Sprites had DP lowered from 75DP to 65DP
 Regular Blue Radiant will now spawn in Tri-Tachyon Fleets VERY Rarely.
 LowTech Ballistic Radiant will now spawn in Luddic Church and Hegemony fleets VERY Rarely.
 
-https://media.discordapp.net/attachments/1447817773198868490/1447817773601259610/giphy.gif?ex=693900e0&is=6937af60&hm=ab9693002f46ee251b97f0a82fca77dd53c712cb8329604f52e9fcbeb7c5204b&=
+![giphy](https://github.com/user-attachments/assets/49d26cba-3018-4c46-b469-30ac8cd1be4d)
